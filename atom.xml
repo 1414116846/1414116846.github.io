@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>欢迎来到赵嫂的博客</title>
   
-  
+  <subtitle>奇犽不爱健身</subtitle>
   <link href="http://1414116846.github.io/atom.xml" rel="self"/>
   
   <link href="http://1414116846.github.io/"/>
