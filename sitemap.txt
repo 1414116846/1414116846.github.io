@@ -3,8 +3,6 @@ http://1414116846.github.io/2023/10/12/hexo%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4/
 http://1414116846.github.io/html/z.html
 http://1414116846.github.io/html/%E7%B2%92%E5%AD%90.html
 http://1414116846.github.io/html/index.html
-http://1414116846.github.io/2023/09/25/obca%E7%AD%94%E6%A1%88/
-http://1414116846.github.io/2023/09/25/obca/
 http://1414116846.github.io/2023/09/24/python%E5%90%84%E7%A7%8D%E6%96%87%E4%BB%B6%E8%AF%BB%E5%85%A5%E8%BE%93%E5%87%BA/
 http://1414116846.github.io/2023/09/22/%E8%8B%B1%E8%AF%AD/
 http://1414116846.github.io/2023/02/14/ypy%E6%A8%A1%E6%9D%BF/
