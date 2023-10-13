@@ -371,7 +371,67 @@
   <entry>
     <title>英语</title>
     <url>/2023/09/22/%E8%8B%B1%E8%AF%AD/</url>
-    <content><![CDATA[<p><img src="C:\Users\Dt\Desktop\ypy模板\图片\HTE8SJBA_UQD(WGE3([N~CG.png"></p>
+    <content><![CDATA[<h1 id="bios-牵连"><a href="#bios-牵连" class="headerlink" title="bios 牵连"></a>bios 牵连</h1><h2 id="main-重要设置"><a href="#main-重要设置" class="headerlink" title="main 重要设置"></a>main 重要设置</h2><p>小结：在Main界面中，会展示一些硬件方面的详细信息，比如biso版本、主板的名称或者是处理器的信息，还有一级缓存等等。</p>
+<p>另外，一些重要的设置，比如系统时间以及日期设置。</p>
+<p>processor 处理器</p>
+<p>settings 设置</p>
+<p>system 系统</p>
+<p>time 时间</p>
+<p>date 日期</p>
+<p>version 版本</p>
+<p>product 产品</p>
+<p>service 服务</p>
+<p>tag 标签</p>
+<p>type 类型</p>
+<p>speed 速度</p>
+<p>cpu id用户计算机信息</p>
+<p>cache  缓存</p>
+<p>L1 一级</p>
+<p>fixed 固定</p>
+<p>hdd 硬盘</p>
+<p>sata 串口</p>
+<p>odd 光盘</p>
+<p>device 模式</p>
+<p>esata device 设置串口模式</p>
+<p>ac adapter type ac适配器类型</p>
+<p>memory 内存</p>
+<p>extended 扩展</p>
+<h2 id="advanced-高级设置"><a href="#advanced-高级设置" class="headerlink" title="advanced 高级设置"></a>advanced 高级设置</h2><p>小结：主要针对主板硬件上的功能，比如虚拟化激活、集成网卡、USB相关的设置等等。都可以在这个页面直接设置。</p>
+<p>如果要进行sata的设置，也是在这个页面进行的。</p>
+<p>enabled 激活的</p>
+<p>disabled 无效的</p>
+<p>intelspeedstep 因特尔速度步长</p>
+<p>Virtual Izat 1on虚拟化</p>
+<p>Integrated NIC集成网卡</p>
+<p>USB Emulat ion usb仿真</p>
+<p>USB Powershare USB电源共享</p>
+<p>USB Hake Support USB映醒支持</p>
+<p>SATA Operat lon SATA操作</p>
+<p>Adapter Harnings 造配器警告</p>
+<p>Function Key Behav lor功能健行为</p>
+<p>charger Behavior 充电器行为</p>
+<p>Miscellaneous Devices 杂项设备设置</p>
+<h2 id="security-安全设置"><a href="#security-安全设置" class="headerlink" title="security  安全设置"></a>security  安全设置</h2><p>小结：这个页面是和安全有关的，主要就是设置相关的密码，其中包括管理员密码、系统密码以及启动密码。</p>
+<p>另外，你也可以看到密码的状态。</p>
+<p>unkocked 解锁</p>
+<p>not set未设置</p>
+<p>enabied 启动</p>
+<p>Unlock Setup status解锁设置状态</p>
+<p>Admin Passuord Status管理员密码状态</p>
+<p>System Password Status 系统密码状态</p>
+<p>HDD Password Status硬盘密码状态</p>
+<p>Set Admin Passuord 设置管理员密码</p>
+<p>Set System Passuord设置系统密码</p>
+<p>Password on Boot启动码</p>
+<p>Computrace计算机想踪</p>
+<h2 id="BOOT-启动引导设置"><a href="#BOOT-启动引导设置" class="headerlink" title="BOOT-启动引导设置"></a>BOOT-启动引导设置</h2><p>小结：这个启动引导的设置界面，可以说是我们在重装系统时，非常重要的一项设置。</p>
+<p>我们在这个页面，设置U盘作为第一启动项，使得电脑在开机时能够读取U盘winpe系统，进入系统重装的页面。</p>
+<p>以下这个显示界面就是已经将U盘设置第一启动项了，即1st Boot Priority。</p>
+<p>Sot Boot Priority引导设置优先级<br>1st Boot Prlority 第一引导优先级<br>2nd Boot Prlority  第二引导优先级<br>3rd Boot Priority 第三引导优先级<br>4th Boot Prlority 第四引导优先级<br>Sth Boot Prlority 第五引导优先级<br>6th Boot Priority 第六引导优先级</p>
+<p>fusB storage Deyice] USB储存设备<br>[Hard Drive]硬盘动<br>lolskette Dr Ive]软磁盘驱动器<br>[CD&#x2F;DVD&#x2F;CD-RH Drive] CD DVD光盘驱动器<br>LeSATAI扩展卡<br>[Netuork]网络</p>
+<h2 id="Exit-退出设置"><a href="#Exit-退出设置" class="headerlink" title="Exit-退出设置"></a>Exit-退出设置</h2><p>小结：前面，所有的设置完成之后，可以在这个页面，你可以“保存更改或者重置”、或者“放弃更改或者重置”。</p>
+<p>你也可以直接“恢复默认值”，此项设置会将你之前的其他相关设置全部清除，恢复最原始的状态。</p>
+<p>Save Changes and Reset保存 改和重置<br>Discard Changes and Reset 放弃更改和重置<br>Restore Def aults天复 认值<br>DIscard Changes放弃更改<br>Save changes保存更改</p>
 ]]></content>
   </entry>
   <entry>
