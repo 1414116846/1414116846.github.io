@@ -55,7 +55,8 @@
   <entry>
     <title>hexo常见命令</title>
     <url>/2023/10/12/hexo%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4/</url>
-    <content><![CDATA[<p><a href="https://www.jianshu.com/p/a2d298e26dcd">Hexo 最常用的几个命令 - 简书 (jianshu.com)</a></p>
+    <content><![CDATA[<h3 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h3><p><a href="https://www.jianshu.com/p/a2d298e26dcd">Hexo 最常用的几个命令 - 简书 (jianshu.com)</a></p>
+<h3 id="plsql"><a href="#plsql" class="headerlink" title="plsql"></a>plsql</h3><p><a href="https://blog.csdn.net/weixin_42107750/article/details/101207802">【Linux】Linux下解锁Oracle的Scott用户-CSDN博客</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -514,6 +515,12 @@
   <entry>
     <title>linux错误总结</title>
     <url>/2023/10/14/linux%E9%94%99%E8%AF%AF%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>Linux下安装Oracle11g，安装界面乱码问题解决方法：</p>
+<p>解决安装时中文是”囗囗囗囗囗囗囗囗”</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">export LANG=en-US</span><br></pre></td></tr></table></figure>
+
+<h6 id="防火墙："><a href="#防火墙：" class="headerlink" title="防火墙："></a>防火墙：</h6><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="number">1</span>:查看防火状态</span><br><span class="line"></span><br><span class="line">systemctl status firewalld</span><br><span class="line"></span><br><span class="line">service  iptables status</span><br><span class="line"></span><br><span class="line"><span class="number">2</span>:暂时关闭防火墙</span><br><span class="line"></span><br><span class="line">systemctl stop firewalld</span><br><span class="line"></span><br><span class="line">service  iptables stop</span><br><span class="line"></span><br><span class="line"><span class="number">3</span>:永久关闭防火墙</span><br><span class="line"></span><br><span class="line">systemctl disable firewalld</span><br><span class="line"></span><br><span class="line">chkconfig iptables off</span><br><span class="line"></span><br><span class="line"><span class="number">4</span>:重启防火墙</span><br><span class="line"></span><br><span class="line">systemctl enable firewalld</span><br><span class="line"></span><br><span class="line">service iptables restart  </span><br><span class="line"></span><br><span class="line"><span class="number">5</span>:永久关闭后重启</span><br><span class="line"></span><br><span class="line"><span class="comment">//暂时还没有试过</span></span><br><span class="line"></span><br><span class="line">chkconfig iptables on　</span><br></pre></td></tr></table></figure>
+
+]]></content>
   </entry>
 </search>

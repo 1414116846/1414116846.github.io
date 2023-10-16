@@ -6,7 +6,7 @@
   <link href="http://1414116846.github.io/atom.xml" rel="self"/>
   
   <link href="http://1414116846.github.io/"/>
-  <updated>2023-10-14T01:49:07.689Z</updated>
+  <updated>2023-10-16T10:02:45.720Z</updated>
   <id>http://1414116846.github.io/</id>
   
   <author>
@@ -21,8 +21,17 @@
     <link href="http://1414116846.github.io/2023/10/14/linux%E9%94%99%E8%AF%AF%E6%80%BB%E7%BB%93/"/>
     <id>http://1414116846.github.io/2023/10/14/linux%E9%94%99%E8%AF%AF%E6%80%BB%E7%BB%93/</id>
     <published>2023-10-14T01:49:07.000Z</published>
-    <updated>2023-10-14T01:49:07.689Z</updated>
+    <updated>2023-10-16T10:02:45.720Z</updated>
     
+    <content type="html"><![CDATA[<p>Linux下安装Oracle11g，安装界面乱码问题解决方法：</p><p>解决安装时中文是”囗囗囗囗囗囗囗囗”</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">export LANG=en-US</span><br></pre></td></tr></table></figure><h6 id="防火墙："><a href="#防火墙：" class="headerlink" title="防火墙："></a>防火墙：</h6><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line"><span class="number">1</span>:查看防火状态</span><br><span class="line"></span><br><span class="line">systemctl status firewalld</span><br><span class="line"></span><br><span class="line">service  iptables status</span><br><span class="line"></span><br><span class="line"><span class="number">2</span>:暂时关闭防火墙</span><br><span class="line"></span><br><span class="line">systemctl stop firewalld</span><br><span class="line"></span><br><span class="line">service  iptables stop</span><br><span class="line"></span><br><span class="line"><span class="number">3</span>:永久关闭防火墙</span><br><span class="line"></span><br><span class="line">systemctl disable firewalld</span><br><span class="line"></span><br><span class="line">chkconfig iptables off</span><br><span class="line"></span><br><span class="line"><span class="number">4</span>:重启防火墙</span><br><span class="line"></span><br><span class="line">systemctl enable firewalld</span><br><span class="line"></span><br><span class="line">service iptables restart  </span><br><span class="line"></span><br><span class="line"><span class="number">5</span>:永久关闭后重启</span><br><span class="line"></span><br><span class="line"><span class="comment">//暂时还没有试过</span></span><br><span class="line"></span><br><span class="line">chkconfig iptables on　</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Linux下安装Oracle11g，安装界面乱码问题解决方法：&lt;/p&gt;
+&lt;p&gt;解决安装时中文是”囗囗囗囗囗囗囗囗”&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;spa</summary>
+      
     
     
     
@@ -57,15 +66,14 @@
     <link href="http://1414116846.github.io/2023/10/12/hexo%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4/"/>
     <id>http://1414116846.github.io/2023/10/12/hexo%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4/</id>
     <published>2023-10-12T12:42:28.634Z</published>
-    <updated>2023-10-12T12:45:20.812Z</updated>
+    <updated>2023-10-16T10:57:05.606Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://www.jianshu.com/p/a2d298e26dcd">Hexo 最常用的几个命令 - 简书 (jianshu.com)</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h3><p><a href="https://www.jianshu.com/p/a2d298e26dcd">Hexo 最常用的几个命令 - 简书 (jianshu.com)</a></p><h3 id="plsql"><a href="#plsql" class="headerlink" title="plsql"></a>plsql</h3><p><a href="https://blog.csdn.net/weixin_42107750/article/details/101207802">【Linux】Linux下解锁Oracle的Scott用户-CSDN博客</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://www.jianshu.com/p/a2d298e26dcd&quot;&gt;Hexo 最常用的几个命令 - 简书 (jianshu.com)&lt;/a&gt;&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h3 id=&quot;hexo&quot;&gt;&lt;a href=&quot;#hexo&quot; class=&quot;headerlink&quot; title=&quot;hexo&quot;&gt;&lt;/a&gt;hexo&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://www.jianshu.com/p/a2d298e26dcd&quot;&gt;Hexo 最常用的几个命令</summary>
       
     
     
