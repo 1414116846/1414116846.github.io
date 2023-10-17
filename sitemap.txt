@@ -1,8 +1,8 @@
+http://1414116846.github.io/2023/10/12/linux%20%E5%91%BD%E4%BB%A4/
 http://1414116846.github.io/2023/10/12/hexo%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4/
 http://1414116846.github.io/2023/10/14/linux%E9%94%99%E8%AF%AF%E6%80%BB%E7%BB%93/
 http://1414116846.github.io/1314/05/21/hello-world/
 http://1414116846.github.io/2023/09/22/%E8%8B%B1%E8%AF%AD/
-http://1414116846.github.io/2023/10/12/linux%20%E5%91%BD%E4%BB%A4/
 http://1414116846.github.io/html/z.html
 http://1414116846.github.io/html/%E7%B2%92%E5%AD%90.html
 http://1414116846.github.io/html/index.html

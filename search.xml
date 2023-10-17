@@ -21,7 +21,7 @@
   <entry>
     <title>linux常见命令</title>
     <url>/2023/10/12/linux%20%E5%91%BD%E4%BB%A4/</url>
-    <content><![CDATA[<p>1 常用文件管理命令<br>1.1 命令介绍<br>ㅤㅤ1. Ctrl c：取消命令，并且换行</p>
+    <content><![CDATA[<h2 id="1-常用文件管理命令"><a href="#1-常用文件管理命令" class="headerlink" title="1.常用文件管理命令"></a>1.常用文件管理命令</h2><p>1.1 命令介绍<br>ㅤㅤ1. Ctrl c：取消命令，并且换行</p>
 <p>ㅤㅤ2. Ctrl u：清空本行命令</p>
 <p>ㅤㅤ3. tab键：可以补全命令和文件名，如果补全不了快速按两下tab键，可以显示备选选项</p>
 <p>ㅤㅤ4. ls：列出当前目录下所有文件，蓝色的是文件夹，白色的是普通文件，绿色的是可执行文件</p>
@@ -50,6 +50,13 @@
 <p>ㅤㅤ14. 粘贴文本：windows&#x2F;Linux下：Shift + insert，Mac下：command + v</p>
 <p>ㅤㅤ15. history：查看历史输入指令</p>
 <p>ㅤㅤ16. tree：以树形显示文件目录结构</p>
+<h2 id="2-oracle命令"><a href="#2-oracle命令" class="headerlink" title="2.oracle命令"></a>2.oracle命令</h2><p><code>sqlplus / as sysdba</code>  使用管理员权限登录到操作系统中的Oracle安装用户。</p>
+<p><code>conn / as sysdba;</code> 是Oracle数据库中的命令，用于使用sysdba权限连接到数据库。 <code>conn</code> 是connect的缩写，<code>/</code> 表示使用操作系统认证方式登录，<code>as sysdba</code> 表示以sysdba用户身份登录。这条命令通常在命令行或SQL*Plus工具中使用，以获得对数据库的管理员权限。</p>
+<p><code>startup；</code> 启动数据库</p>
+<p><code>shutdown immediate;</code> 关闭数据库</p>
+<p><code>lsnrctl start</code> 启动监听</p>
+<p><code>show user</code> 查看当前用户</p>
+<p><code>conn scott/tiger</code> 连接用户名为scott密码为tiger的实例</p>
 ]]></content>
   </entry>
   <entry>

@@ -43,17 +43,15 @@
     <link href="http://1414116846.github.io/2023/10/12/linux%20%E5%91%BD%E4%BB%A4/"/>
     <id>http://1414116846.github.io/2023/10/12/linux%20%E5%91%BD%E4%BB%A4/</id>
     <published>2023-10-12T12:45:25.154Z</published>
-    <updated>2023-10-12T12:50:21.410Z</updated>
+    <updated>2023-10-17T09:48:55.130Z</updated>
     
-    <content type="html"><![CDATA[<p>1 常用文件管理命令<br>1.1 命令介绍<br>ㅤㅤ1. Ctrl c：取消命令，并且换行</p><p>ㅤㅤ2. Ctrl u：清空本行命令</p><p>ㅤㅤ3. tab键：可以补全命令和文件名，如果补全不了快速按两下tab键，可以显示备选选项</p><p>ㅤㅤ4. ls：列出当前目录下所有文件，蓝色的是文件夹，白色的是普通文件，绿色的是可执行文件</p><p>ㅤㅤㅤ●ㅤls -a：查看所有文件包括隐藏文件（以.开头的文件就是隐藏文件）</p><p>ㅤㅤㅤ●ㅤls -l：查看当前路径下文件的读、写、执行权限</p><p>ㅤㅤㅤ●ㅤls | wc -l：查看ls下有多少个文件</p><p>ㅤㅤ5. pwd：显示当前路径</p><p>ㅤㅤ6. cd XXX：进入XXX目录下，cd ..返回上层目录</p><p>ㅤㅤㅤ●ㅤ.：当前目录 ..：上级目录</p><p>ㅤㅤㅤ●ㅤ~：家目录，回回到路径&#x2F;home&#x2F;acs下</p><p>ㅤㅤㅤ●ㅤcd -：返回改变路径前的路径，比如当前在&#x2F;home&#x2F;acs&#x2F;homework然后cd** **&#x2F;这个时候就处于&#x2F;目录下，然后cd -就会回到改变路径前的路径也就是&#x2F;home&#x2F;acs&#x2F;homework</p><p>ㅤㅤ7. cp XXX YYY：将XXX文件复制成YYY，XXX和YYY可以是同一个路径，比如..&#x2F;dir_c&#x2F;a.txt，表示上层目录下的dir_c文件夹下的文件a.txt</p><p>ㅤㅤㅤ●ㅤcp XXX YYY -r将XXX目录（文件夹）复制到YYY下</p><p>ㅤㅤㅤ●ㅤ非当前路径重命名方法：cp a.txt ..&#x2F;b.txt</p><p>ㅤㅤ8. mkdir XXX：创建目录（文件夹）XXX</p><p>ㅤㅤㅤ●ㅤmkdir -p：-p：如果文件夹不存在，则创建</p><p>ㅤㅤ9. rm XXX：删除普通文件； rm XXX -r：删除文件夹</p><p>ㅤㅤㅤ●ㅤ支持正则表达式，删除所有.txt类型文件：rm *.txt</p><p>ㅤㅤㅤ●ㅤ删除所有文件（不包括文件夹）：rm *</p><p>ㅤㅤㅤ●ㅤ正则表达式删除所有文件夹：rm * -r即可</p><p>ㅤㅤ10. mv XXX YYY：将XXX文件移动到YYY下，和cp命令一样，XXX和YYY可以是同一个路径；重命名也是用这个命令</p><p>ㅤㅤㅤ●ㅤ非当前路径移动方法：mv a.txt ..&#x2F;b.txt</p><p>ㅤㅤ11. touch XXX：创建一个文件</p><p>ㅤㅤ12. cat XXX：展示文件XXX中的内容</p><p>ㅤㅤ13. 复制文本：windows&#x2F;Linux下：Ctrl + insert，Mac下：command + c</p><p>ㅤㅤ14. 粘贴文本：windows&#x2F;Linux下：Shift + insert，Mac下：command + v</p><p>ㅤㅤ15. history：查看历史输入指令</p><p>ㅤㅤ16. tree：以树形显示文件目录结构</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-常用文件管理命令"><a href="#1-常用文件管理命令" class="headerlink" title="1.常用文件管理命令"></a>1.常用文件管理命令</h2><p>1.1 命令介绍<br>ㅤㅤ1. Ctrl c：取消命令，并且换行</p><p>ㅤㅤ2. Ctrl u：清空本行命令</p><p>ㅤㅤ3. tab键：可以补全命令和文件名，如果补全不了快速按两下tab键，可以显示备选选项</p><p>ㅤㅤ4. ls：列出当前目录下所有文件，蓝色的是文件夹，白色的是普通文件，绿色的是可执行文件</p><p>ㅤㅤㅤ●ㅤls -a：查看所有文件包括隐藏文件（以.开头的文件就是隐藏文件）</p><p>ㅤㅤㅤ●ㅤls -l：查看当前路径下文件的读、写、执行权限</p><p>ㅤㅤㅤ●ㅤls | wc -l：查看ls下有多少个文件</p><p>ㅤㅤ5. pwd：显示当前路径</p><p>ㅤㅤ6. cd XXX：进入XXX目录下，cd ..返回上层目录</p><p>ㅤㅤㅤ●ㅤ.：当前目录 ..：上级目录</p><p>ㅤㅤㅤ●ㅤ~：家目录，回回到路径&#x2F;home&#x2F;acs下</p><p>ㅤㅤㅤ●ㅤcd -：返回改变路径前的路径，比如当前在&#x2F;home&#x2F;acs&#x2F;homework然后cd** **&#x2F;这个时候就处于&#x2F;目录下，然后cd -就会回到改变路径前的路径也就是&#x2F;home&#x2F;acs&#x2F;homework</p><p>ㅤㅤ7. cp XXX YYY：将XXX文件复制成YYY，XXX和YYY可以是同一个路径，比如..&#x2F;dir_c&#x2F;a.txt，表示上层目录下的dir_c文件夹下的文件a.txt</p><p>ㅤㅤㅤ●ㅤcp XXX YYY -r将XXX目录（文件夹）复制到YYY下</p><p>ㅤㅤㅤ●ㅤ非当前路径重命名方法：cp a.txt ..&#x2F;b.txt</p><p>ㅤㅤ8. mkdir XXX：创建目录（文件夹）XXX</p><p>ㅤㅤㅤ●ㅤmkdir -p：-p：如果文件夹不存在，则创建</p><p>ㅤㅤ9. rm XXX：删除普通文件； rm XXX -r：删除文件夹</p><p>ㅤㅤㅤ●ㅤ支持正则表达式，删除所有.txt类型文件：rm *.txt</p><p>ㅤㅤㅤ●ㅤ删除所有文件（不包括文件夹）：rm *</p><p>ㅤㅤㅤ●ㅤ正则表达式删除所有文件夹：rm * -r即可</p><p>ㅤㅤ10. mv XXX YYY：将XXX文件移动到YYY下，和cp命令一样，XXX和YYY可以是同一个路径；重命名也是用这个命令</p><p>ㅤㅤㅤ●ㅤ非当前路径移动方法：mv a.txt ..&#x2F;b.txt</p><p>ㅤㅤ11. touch XXX：创建一个文件</p><p>ㅤㅤ12. cat XXX：展示文件XXX中的内容</p><p>ㅤㅤ13. 复制文本：windows&#x2F;Linux下：Ctrl + insert，Mac下：command + c</p><p>ㅤㅤ14. 粘贴文本：windows&#x2F;Linux下：Shift + insert，Mac下：command + v</p><p>ㅤㅤ15. history：查看历史输入指令</p><p>ㅤㅤ16. tree：以树形显示文件目录结构</p><h2 id="2-oracle命令"><a href="#2-oracle命令" class="headerlink" title="2.oracle命令"></a>2.oracle命令</h2><p><code>sqlplus / as sysdba</code>  使用管理员权限登录到操作系统中的Oracle安装用户。</p><p><code>conn / as sysdba;</code> 是Oracle数据库中的命令，用于使用sysdba权限连接到数据库。 <code>conn</code> 是connect的缩写，<code>/</code> 表示使用操作系统认证方式登录，<code>as sysdba</code> 表示以sysdba用户身份登录。这条命令通常在命令行或SQL*Plus工具中使用，以获得对数据库的管理员权限。</p><p><code>startup；</code> 启动数据库</p><p><code>shutdown immediate;</code> 关闭数据库</p><p><code>lsnrctl start</code> 启动监听</p><p><code>show user</code> 查看当前用户</p><p><code>conn scott/tiger</code> 连接用户名为scott密码为tiger的实例</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;1 常用文件管理命令&lt;br&gt;1.1 命令介绍&lt;br&gt;ㅤㅤ1. Ctrl c：取消命令，并且换行&lt;/p&gt;
-&lt;p&gt;ㅤㅤ2. Ctrl u：清空本行命令&lt;/p&gt;
-&lt;p&gt;ㅤㅤ3. tab键：可以补全命令和文件名，如果补全不了快速按两下tab键，可以显示备选选项&lt;/p&gt;
-&lt;p&gt;ㅤㅤ4</summary>
+    <summary type="html">&lt;h2 id=&quot;1-常用文件管理命令&quot;&gt;&lt;a href=&quot;#1-常用文件管理命令&quot; class=&quot;headerlink&quot; title=&quot;1.常用文件管理命令&quot;&gt;&lt;/a&gt;1.常用文件管理命令&lt;/h2&gt;&lt;p&gt;1.1 命令介绍&lt;br&gt;ㅤㅤ1. Ctrl c：取消命令，并且换行&lt;/p&gt;
+</summary>
       
     
     
