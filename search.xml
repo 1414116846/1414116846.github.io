@@ -57,14 +57,18 @@
 <p><code>lsnrctl start</code> 启动监听</p>
 <p><code>show user</code> 查看当前用户</p>
 <p><code>conn scott/tiger</code> 连接用户名为scott密码为tiger的实例</p>
+<p><code>shutdown transactional;</code>  事务完成后关闭数据库</p>
+<p><code>select name from v$tempfile;</code> 获取临时表空间文件的名称。</p>
+<p><code>select name from v$datafile;</code> 获取数据文件的名称。数据文件是用来存储表、索引和其他数据库对象的物理文件。</p>
 ]]></content>
   </entry>
   <entry>
-    <title>hexo常见命令</title>
+    <title>优秀博客推荐</title>
     <url>/2023/10/12/hexo%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4/</url>
     <content><![CDATA[<h3 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h3><p><a href="https://www.jianshu.com/p/a2d298e26dcd">Hexo 最常用的几个命令 - 简书 (jianshu.com)</a></p>
 <h3 id="plsql"><a href="#plsql" class="headerlink" title="plsql"></a>plsql</h3><p><a href="https://blog.csdn.net/weixin_42107750/article/details/101207802">【Linux】Linux下解锁Oracle的Scott用户-CSDN博客</a></p>
 <h2 id="Oracle-临时表空间操作总结-TEMP"><a href="#Oracle-临时表空间操作总结-TEMP" class="headerlink" title="Oracle-临时表空间操作总结 TEMP_"></a>Oracle-临时表空间操作总结 TEMP_</h2><p><a href="https://blog.51cto.com/baoyw/6650484">Oracle-临时表空间操作总结 TEMP_小宝大人的技术博客_51CTO博客</a></p>
+<h2 id="Centos-7-X根分区磁盘扩容（非LVM）"><a href="#Centos-7-X根分区磁盘扩容（非LVM）" class="headerlink" title="Centos 7.X根分区磁盘扩容（非LVM）"></a>Centos 7.X根分区磁盘扩容（非LVM）</h2><p><a href="https://cloud.tencent.com/developer/article/1839925">Centos 7.X根分区磁盘扩容（非LVM）-腾讯云开发者社区-腾讯云 (tencent.com)</a></p>
 ]]></content>
   </entry>
   <entry>
