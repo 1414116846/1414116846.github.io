@@ -536,4 +536,19 @@
 <h2 id="Linux永久关闭防火墙-firewalld和sellinux设置"><a href="#Linux永久关闭防火墙-firewalld和sellinux设置" class="headerlink" title="Linux永久关闭防火墙 firewalld和sellinux设置"></a>Linux永久关闭防火墙 firewalld和sellinux设置</h2><p>必须设置 最好设置永久性若是暂时关闭 下次开启还要设置 所以建议永久性关闭<br>关闭 firewalld：<br>systemctl disable firewalld #永久关闭,即设置开机的时候不自动启动<br>关闭 selinux：<br>修改配置文件（永久关闭selinux可以使用vi命令打开&#x2F;etc&#x2F;sysconfig&#x2F;selinux 文件将SELINUX&#x3D;disable）</p>
 ]]></content>
   </entry>
+  <entry>
+    <title>dbca</title>
+    <url>/2023/10/25/dbca/</url>
+    <content><![CDATA[<h2 id="创建redhat虚拟机"><a href="#创建redhat虚拟机" class="headerlink" title="创建redhat虚拟机"></a>创建redhat虚拟机</h2><h2 id="更换yum源"><a href="#更换yum源" class="headerlink" title="更换yum源"></a>更换yum源</h2><p><a href="https://blog.csdn.net/x781437692/article/details/112768356?spm=1001.2014.3001.5506%E3%80%81">Redhat更换yum源_redhat9换源_Softnothings的博客-CSDN博客</a></p>
+<h2 id="安装-oracle"><a href="#安装-oracle" class="headerlink" title="安装 oracle"></a>安装 oracle</h2><p><a href="https://blog.csdn.net/qq_37382077/article/details/108461330">redhat7安装Oracle11g数据库全过程_redhat安装oracle11g-CSDN博客</a></p>
+<h2 id="安装-hammerdb"><a href="#安装-hammerdb" class="headerlink" title="安装 hammerdb"></a>安装 hammerdb</h2><h2 id="安装swingbench"><a href="#安装swingbench" class="headerlink" title="安装swingbench"></a>安装swingbench</h2>]]></content>
+  </entry>
+  <entry>
+    <title>宏峰</title>
+    <url>/2023/10/25/%E5%AE%8F%E5%B3%B0/</url>
+    <content><![CDATA[<h2 id="yum与rpm命令的使用以及参数含义"><a href="#yum与rpm命令的使用以及参数含义" class="headerlink" title="yum与rpm命令的使用以及参数含义"></a>yum与rpm命令的使用以及参数含义</h2><p><img src="file:///C:\Users\Dt\AppData\Roaming\Tencent\QQTempSys%W@GJ$ACOF(TYDYECOKVDYB.png" alt="img"><a href="https://blog.csdn.net/qq_62690755/article/details/134040987?spm=1001.2014.3001.5502">https://blog.csdn.net/qq_62690755/article/details/134040987?spm=1001.2014.3001.5502</a></p>
+<h2 id="chown-、chmod命令每一个参数的含义。"><a href="#chown-、chmod命令每一个参数的含义。" class="headerlink" title="chown 、chmod命令每一个参数的含义。"></a>chown 、chmod命令每一个参数的含义。</h2><p><img src="file:///C:\Users\Dt\AppData\Roaming\Tencent\QQTempSys%W@GJ$ACOF(TYDYECOKVDYB.png" alt="img"><a href="https://blog.csdn.net/qq_62690755/article/details/134041622?spm=1001.2014.3001.5502">https://blog.csdn.net/qq_62690755/article/details/134041622?spm=1001.2014.3001.5502</a></p>
+<h2 id="fdisk-partd硬盘分区命令-用法？"><a href="#fdisk-partd硬盘分区命令-用法？" class="headerlink" title="fdisk partd硬盘分区命令 用法？"></a>fdisk partd硬盘分区命令 用法？</h2><p><img src="file:///C:\Users\Dt\AppData\Roaming\Tencent\QQTempSys%W@GJ$ACOF(TYDYECOKVDYB.png" alt="img"><a href="https://blog.csdn.net/qq_62690755/article/details/134041622?spm=1001.2014.3001.5502">https://blog.csdn.net/qq_62690755/article/details/134041622?spm=1001.2014.3001.5502</a></p>
+]]></content>
+  </entry>
 </search>

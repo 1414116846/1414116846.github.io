@@ -6,7 +6,7 @@
   <link href="http://1414116846.github.io/atom.xml" rel="self"/>
   
   <link href="http://1414116846.github.io/"/>
-  <updated>2023-10-18T09:23:25.032Z</updated>
+  <updated>2023-10-25T12:43:02.626Z</updated>
   <id>http://1414116846.github.io/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>宏峰</title>
+    <link href="http://1414116846.github.io/2023/10/25/%E5%AE%8F%E5%B3%B0/"/>
+    <id>http://1414116846.github.io/2023/10/25/%E5%AE%8F%E5%B3%B0/</id>
+    <published>2023-10-25T12:39:30.000Z</published>
+    <updated>2023-10-25T12:43:02.626Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="yum与rpm命令的使用以及参数含义"><a href="#yum与rpm命令的使用以及参数含义" class="headerlink" title="yum与rpm命令的使用以及参数含义"></a>yum与rpm命令的使用以及参数含义</h2><p><img src="file:///C:\Users\Dt\AppData\Roaming\Tencent\QQTempSys%W@GJ$ACOF(TYDYECOKVDYB.png" alt="img"><a href="https://blog.csdn.net/qq_62690755/article/details/134040987?spm=1001.2014.3001.5502">https://blog.csdn.net/qq_62690755/article/details/134040987?spm=1001.2014.3001.5502</a></p><h2 id="chown-、chmod命令每一个参数的含义。"><a href="#chown-、chmod命令每一个参数的含义。" class="headerlink" title="chown 、chmod命令每一个参数的含义。"></a>chown 、chmod命令每一个参数的含义。</h2><p><img src="file:///C:\Users\Dt\AppData\Roaming\Tencent\QQTempSys%W@GJ$ACOF(TYDYECOKVDYB.png" alt="img"><a href="https://blog.csdn.net/qq_62690755/article/details/134041622?spm=1001.2014.3001.5502">https://blog.csdn.net/qq_62690755/article/details/134041622?spm=1001.2014.3001.5502</a></p><h2 id="fdisk-partd硬盘分区命令-用法？"><a href="#fdisk-partd硬盘分区命令-用法？" class="headerlink" title="fdisk partd硬盘分区命令 用法？"></a>fdisk partd硬盘分区命令 用法？</h2><p><img src="file:///C:\Users\Dt\AppData\Roaming\Tencent\QQTempSys%W@GJ$ACOF(TYDYECOKVDYB.png" alt="img"><a href="https://blog.csdn.net/qq_62690755/article/details/134041622?spm=1001.2014.3001.5502">https://blog.csdn.net/qq_62690755/article/details/134041622?spm=1001.2014.3001.5502</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;yum与rpm命令的使用以及参数含义&quot;&gt;&lt;a href=&quot;#yum与rpm命令的使用以及参数含义&quot; class=&quot;headerlink&quot; title=&quot;yum与rpm命令的使用以及参数含义&quot;&gt;&lt;/a&gt;yum与rpm命令的使用以及参数含义&lt;/h2&gt;&lt;p&gt;&lt;img s</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>dbca</title>
+    <link href="http://1414116846.github.io/2023/10/25/dbca/"/>
+    <id>http://1414116846.github.io/2023/10/25/dbca/</id>
+    <published>2023-10-25T00:29:09.000Z</published>
+    <updated>2023-10-25T00:34:43.422Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="创建redhat虚拟机"><a href="#创建redhat虚拟机" class="headerlink" title="创建redhat虚拟机"></a>创建redhat虚拟机</h2><h2 id="更换yum源"><a href="#更换yum源" class="headerlink" title="更换yum源"></a>更换yum源</h2><p><a href="https://blog.csdn.net/x781437692/article/details/112768356?spm=1001.2014.3001.5506%E3%80%81">Redhat更换yum源_redhat9换源_Softnothings的博客-CSDN博客</a></p><h2 id="安装-oracle"><a href="#安装-oracle" class="headerlink" title="安装 oracle"></a>安装 oracle</h2><p><a href="https://blog.csdn.net/qq_37382077/article/details/108461330">redhat7安装Oracle11g数据库全过程_redhat安装oracle11g-CSDN博客</a></p><h2 id="安装-hammerdb"><a href="#安装-hammerdb" class="headerlink" title="安装 hammerdb"></a>安装 hammerdb</h2><h2 id="安装swingbench"><a href="#安装swingbench" class="headerlink" title="安装swingbench"></a>安装swingbench</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;创建redhat虚拟机&quot;&gt;&lt;a href=&quot;#创建redhat虚拟机&quot; class=&quot;headerlink&quot; title=&quot;创建redhat虚拟机&quot;&gt;&lt;/a&gt;创建redhat虚拟机&lt;/h2&gt;&lt;h2 id=&quot;更换yum源&quot;&gt;&lt;a href=&quot;#更换yum源&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>linux错误总结</title>
