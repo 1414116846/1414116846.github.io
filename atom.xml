@@ -6,7 +6,7 @@
   <link href="http://1414116846.github.io/atom.xml" rel="self"/>
   
   <link href="http://1414116846.github.io/"/>
-  <updated>2023-10-26T07:28:00.377Z</updated>
+  <updated>2023-10-26T08:11:04.022Z</updated>
   <id>http://1414116846.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>zhang</title>
+    <link href="http://1414116846.github.io/2023/10/26/zhang/"/>
+    <id>http://1414116846.github.io/2023/10/26/zhang/</id>
+    <published>2023-10-26T08:08:03.000Z</published>
+    <updated>2023-10-26T08:11:04.022Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="C:\hexo\source\pic\OIP.jpg" alt="!!!"></p><p><img src="C:\hexo\source\pic\R.jpg" alt="!!!"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;C:&#92;hexo&#92;source&#92;pic&#92;OIP.jpg&quot; alt=&quot;!!!&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;C:&#92;hexo&#92;source&#92;pic&#92;R.jpg&quot; alt=&quot;!!!&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>yum源本地搭建及创建盘挂载加扩容</title>
