@@ -2,27 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://1414116846.github.io/2023/10/25/yum%E6%BA%90%E6%9C%AC%E5%9C%B0%E6%90%AD%E5%BB%BA%E5%8F%8A%E6%89%A9%E5%AE%B9/</loc>
+    
+    <lastmod>2023-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://1414116846.github.io/2023/10/12/%E4%BC%98%E7%A7%80%E5%8D%9A%E5%AE%A2%E6%8E%A8%E8%8D%90/</loc>
+    
+    <lastmod>2023-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://1414116846.github.io/2023/10/25/redhat/</loc>
+    
+    <lastmod>2023-10-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://1414116846.github.io/2023/10/25/%E5%AE%8F%E5%B3%B0/</loc>
     
     <lastmod>2023-10-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://1414116846.github.io/2023/10/25/dbca/</loc>
-    
-    <lastmod>2023-10-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://1414116846.github.io/2023/10/12/hexo%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4/</loc>
-    
-    <lastmod>2023-10-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -41,15 +50,6 @@
     <loc>http://1414116846.github.io/2023/10/14/linux%E9%94%99%E8%AF%AF%E6%80%BB%E7%BB%93/</loc>
     
     <lastmod>2023-10-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://1414116846.github.io/1314/05/21/hello-world/</loc>
-    
-    <lastmod>2023-10-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,7 +121,7 @@
 
   <url>
     <loc>http://1414116846.github.io/</loc>
-    <lastmod>2023-10-25</lastmod>
+    <lastmod>2023-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/1314/05/21/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>linux常见命令</title>
     <url>/2023/10/12/linux%20%E5%91%BD%E4%BB%A4/</url>
     <content><![CDATA[<h2 id="1-常用文件管理命令"><a href="#1-常用文件管理命令" class="headerlink" title="1.常用文件管理命令"></a>1.常用文件管理命令</h2><p>1.1 命令介绍<br>ㅤㅤ1. Ctrl c：取消命令，并且换行</p>
@@ -60,15 +42,6 @@
 <p><code>shutdown transactional;</code>  事务完成后关闭数据库</p>
 <p><code>select name from v$tempfile;</code> 获取临时表空间文件的名称。</p>
 <p><code>select name from v$datafile;</code> 获取数据文件的名称。数据文件是用来存储表、索引和其他数据库对象的物理文件。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>优秀博客推荐</title>
-    <url>/2023/10/12/hexo%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4/</url>
-    <content><![CDATA[<h3 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h3><p><a href="https://www.jianshu.com/p/a2d298e26dcd">Hexo 最常用的几个命令 - 简书 (jianshu.com)</a></p>
-<h3 id="plsql"><a href="#plsql" class="headerlink" title="plsql"></a>plsql</h3><p><a href="https://blog.csdn.net/weixin_42107750/article/details/101207802">【Linux】Linux下解锁Oracle的Scott用户-CSDN博客</a></p>
-<h2 id="Oracle-临时表空间操作总结-TEMP"><a href="#Oracle-临时表空间操作总结-TEMP" class="headerlink" title="Oracle-临时表空间操作总结 TEMP_"></a>Oracle-临时表空间操作总结 TEMP_</h2><p><a href="https://blog.51cto.com/baoyw/6650484">Oracle-临时表空间操作总结 TEMP_小宝大人的技术博客_51CTO博客</a></p>
-<h2 id="Centos-7-X根分区磁盘扩容（非LVM）"><a href="#Centos-7-X根分区磁盘扩容（非LVM）" class="headerlink" title="Centos 7.X根分区磁盘扩容（非LVM）"></a>Centos 7.X根分区磁盘扩容（非LVM）</h2><p><a href="https://cloud.tencent.com/developer/article/1839925">Centos 7.X根分区磁盘扩容（非LVM）-腾讯云开发者社区-腾讯云 (tencent.com)</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -537,18 +510,81 @@
 ]]></content>
   </entry>
   <entry>
-    <title>dbca</title>
-    <url>/2023/10/25/dbca/</url>
-    <content><![CDATA[<h2 id="创建redhat虚拟机"><a href="#创建redhat虚拟机" class="headerlink" title="创建redhat虚拟机"></a>创建redhat虚拟机</h2><h2 id="更换yum源"><a href="#更换yum源" class="headerlink" title="更换yum源"></a>更换yum源</h2><p><a href="https://blog.csdn.net/x781437692/article/details/112768356?spm=1001.2014.3001.5506%E3%80%81">Redhat更换yum源_redhat9换源_Softnothings的博客-CSDN博客</a></p>
-<h2 id="安装-oracle"><a href="#安装-oracle" class="headerlink" title="安装 oracle"></a>安装 oracle</h2><p><a href="https://blog.csdn.net/qq_37382077/article/details/108461330">redhat7安装Oracle11g数据库全过程_redhat安装oracle11g-CSDN博客</a></p>
-<h2 id="安装-hammerdb"><a href="#安装-hammerdb" class="headerlink" title="安装 hammerdb"></a>安装 hammerdb</h2><h2 id="安装swingbench"><a href="#安装swingbench" class="headerlink" title="安装swingbench"></a>安装swingbench</h2>]]></content>
-  </entry>
-  <entry>
     <title>宏峰</title>
     <url>/2023/10/25/%E5%AE%8F%E5%B3%B0/</url>
     <content><![CDATA[<h2 id="yum与rpm命令的使用以及参数含义"><a href="#yum与rpm命令的使用以及参数含义" class="headerlink" title="yum与rpm命令的使用以及参数含义"></a>yum与rpm命令的使用以及参数含义</h2><p><img src="file:///C:\Users\Dt\AppData\Roaming\Tencent\QQTempSys%W@GJ$ACOF(TYDYECOKVDYB.png" alt="img"><a href="https://blog.csdn.net/qq_62690755/article/details/134040987?spm=1001.2014.3001.5502">https://blog.csdn.net/qq_62690755/article/details/134040987?spm=1001.2014.3001.5502</a></p>
 <h2 id="chown-、chmod命令每一个参数的含义。"><a href="#chown-、chmod命令每一个参数的含义。" class="headerlink" title="chown 、chmod命令每一个参数的含义。"></a>chown 、chmod命令每一个参数的含义。</h2><p><img src="file:///C:\Users\Dt\AppData\Roaming\Tencent\QQTempSys%W@GJ$ACOF(TYDYECOKVDYB.png" alt="img"><a href="https://blog.csdn.net/qq_62690755/article/details/134041622?spm=1001.2014.3001.5502">https://blog.csdn.net/qq_62690755/article/details/134041622?spm=1001.2014.3001.5502</a></p>
 <h2 id="fdisk-partd硬盘分区命令-用法？"><a href="#fdisk-partd硬盘分区命令-用法？" class="headerlink" title="fdisk partd硬盘分区命令 用法？"></a>fdisk partd硬盘分区命令 用法？</h2><p><img src="file:///C:\Users\Dt\AppData\Roaming\Tencent\QQTempSys%W@GJ$ACOF(TYDYECOKVDYB.png" alt="img"><a href="https://blog.csdn.net/qq_62690755/article/details/134041622?spm=1001.2014.3001.5502">https://blog.csdn.net/qq_62690755/article/details/134041622?spm=1001.2014.3001.5502</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Redhat</title>
+    <url>/2023/10/25/redhat/</url>
+    <content><![CDATA[<h2 id="创建redhat虚拟机"><a href="#创建redhat虚拟机" class="headerlink" title="创建redhat虚拟机"></a>创建redhat虚拟机</h2><h2 id="更换yum源"><a href="#更换yum源" class="headerlink" title="更换yum源"></a>更换yum源</h2><p><a href="https://blog.csdn.net/x781437692/article/details/112768356?spm=1001.2014.3001.5506%E3%80%81">Redhat更换yum源_redhat9换源_Softnothings的博客-CSDN博客</a></p>
+<h2 id="安装-oracle"><a href="#安装-oracle" class="headerlink" title="安装 oracle"></a>安装 oracle</h2><p><a href="https://blog.csdn.net/qq_37382077/article/details/108461330">redhat7安装Oracle11g数据库全过程_redhat安装oracle11g-CSDN博客</a></p>
+<h2 id="安装-hammerdb"><a href="#安装-hammerdb" class="headerlink" title="安装 hammerdb"></a>安装 hammerdb</h2><h2 id="安装swingbench"><a href="#安装swingbench" class="headerlink" title="安装swingbench"></a>安装swingbench</h2>]]></content>
+  </entry>
+  <entry>
+    <title>优秀博客推荐</title>
+    <url>/2023/10/12/%E4%BC%98%E7%A7%80%E5%8D%9A%E5%AE%A2%E6%8E%A8%E8%8D%90/</url>
+    <content><![CDATA[<h3 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h3><p><a href="https://www.jianshu.com/p/a2d298e26dcd">Hexo 最常用的几个命令 - 简书 (jianshu.com)</a></p>
+<h3 id="plsql"><a href="#plsql" class="headerlink" title="plsql"></a>plsql</h3><p><a href="https://blog.csdn.net/weixin_42107750/article/details/101207802">【Linux】Linux下解锁Oracle的Scott用户-CSDN博客</a></p>
+<h2 id="Oracle-临时表空间操作总结-TEMP"><a href="#Oracle-临时表空间操作总结-TEMP" class="headerlink" title="Oracle-临时表空间操作总结 TEMP_"></a>Oracle-临时表空间操作总结 TEMP_</h2><p><a href="https://blog.51cto.com/baoyw/6650484">Oracle-临时表空间操作总结 TEMP_小宝大人的技术博客_51CTO博客</a></p>
+<h2 id="Centos-7-X根分区磁盘扩容（非LVM）"><a href="#Centos-7-X根分区磁盘扩容（非LVM）" class="headerlink" title="Centos 7.X根分区磁盘扩容（非LVM）"></a>Centos 7.X根分区磁盘扩容（非LVM）</h2><p><a href="https://cloud.tencent.com/developer/article/1839925">Centos 7.X根分区磁盘扩容（非LVM）-腾讯云开发者社区-腾讯云 (tencent.com)</a></p>
+<h2 id="Linux-虚拟机中不重启的情况下加新硬盘及扩展根分区容量"><a href="#Linux-虚拟机中不重启的情况下加新硬盘及扩展根分区容量" class="headerlink" title="Linux 虚拟机中不重启的情况下加新硬盘及扩展根分区容量"></a>Linux 虚拟机中不重启的情况下加新硬盘及扩展根分区容量</h2><p><a href="https://www.cnblogs.com/xiongzaiqiren/p/12627841.html">Linux 虚拟机中不重启的情况下加新硬盘及扩展根分区容量 </a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>yum源本地搭建及创建盘挂载加扩容</title>
+    <url>/2023/10/25/yum%E6%BA%90%E6%9C%AC%E5%9C%B0%E6%90%AD%E5%BB%BA%E5%8F%8A%E6%89%A9%E5%AE%B9/</url>
+    <content><![CDATA[<h1 id="redhat系统配置本地yum源"><a href="#redhat系统配置本地yum源" class="headerlink" title="redhat系统配置本地yum源"></a>redhat系统配置本地yum源</h1><p>前置名字可以换成自己的，在这里是ls</p>
+<p>在&#x2F;home&#x2F;oracle下进行的命令</p>
+<p>1.确保安装<code>createrepo</code>和<code>yum-utils</code>软件包。如果尚未安装，您可以使用以下命令安装它们：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo yum install createrepo yum-utils</span><br></pre></td></tr></table></figure>
+
+<p>2.创建一个目录来存放您的本地Yum源文件。例如，您可以使用以下命令创建一个名为<code>ls-yum</code>的目录：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo mkdir ls-yum</span><br></pre></td></tr></table></figure>
+
+<p>3.将您要提供的RPM软件包复制到<code>ls-yum</code>目录中。</p>
+<p>4.运行以下命令生成本地Yum仓库的元数据：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo createrepo ls-yum</span><br></pre></td></tr></table></figure>
+
+<p>5.创建一个Yum源配置文件，以告知系统如何访问本地Yum源。您可以使用任何文本编辑器创建一个新的 <code>.repo</code> 文件，例如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo vim /etc/yum.repos.d/ls-yum.repo</span><br></pre></td></tr></table></figure>
+
+<p>6.在该文件中，添加以下内容：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[ls-yum]</span><br><span class="line">name=Local Yum Repository</span><br><span class="line">baseurl=file:///home/oracle/ls-yum</span><br><span class="line">enabled=1</span><br><span class="line">gpgcheck=0</span><br></pre></td></tr></table></figure>
+
+<p>确保将<code>home/oracle/ls-yum</code>替换为您实际的本地Yum源目录路径。</p>
+<p>1.保存并关闭文件。</p>
+<p>2.现在，您可以使用Yum命令来安装、更新或删除软件包。例如，要列出可用的软件包，可以运行：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo yun install vim</span><br></pre></td></tr></table></figure>
+
+<p>试试使用本地源进行软件包管理吧！</p>
+<h2 id="在自己的虚拟机上创建一个-backup-虚拟机新添加一块5G的盘-创建lv挂载-backup目录，并再次扩容到10G"><a href="#在自己的虚拟机上创建一个-backup-虚拟机新添加一块5G的盘-创建lv挂载-backup目录，并再次扩容到10G" class="headerlink" title="在自己的虚拟机上创建一个&#x2F;backup 虚拟机新添加一块5G的盘,创建lv挂载&#x2F;backup目录，并再次扩容到10G"></a>在自己的虚拟机上创建一个&#x2F;backup 虚拟机新添加一块5G的盘,创建lv挂载&#x2F;backup目录，并再次扩容到10G</h2><p>前置名字可以换成自己的，在这里是ls</p>
+<p>1.首先，确认你的虚拟机已经添加了一块5GB的新盘。可以使用命令 <code>lsblk</code> 或者 <code>fdisk -l</code> 来查看已有的磁盘列表。</p>
+<p>2.使用命令 <code>sudo fdisk /dev/sdb</code> 打开新添加的磁盘进行分区。按照提示，创建一个新的主分区（Primary Partition）并将其设置为 Linux 文件系统类型（例如使用选项 <code>n</code> 和 <code>p</code>）。保存并退出。</p>
+<p>3.使用命令 <code>sudo pvcreate /dev/sdb1</code> 来创建物理卷。</p>
+<p>4.使用命令 <code>sudo vgcreate ls-vg /dev/sdb1</code> 来创建卷组。</p>
+<p>5.使用命令 <code>sudo lvcreate -L 5G -n ls-lv ls-vg</code> 来创建5GB大小的逻辑卷。</p>
+<p>6.使用命令 <code>sudo mkfs.ext4 /dev/ls-vg/ls-lv</code> 格式化逻辑卷。</p>
+<p>7.创建挂载点 <code>/ls</code> 目录，使用命令 <code>sudo mkdir /ls</code>。</p>
+<p>8.使用命令 <code>sudo mount /dev/ls-vg/ls-lv /ls</code> 将逻辑卷挂载到 <code>/ls</code> 目录。</p>
+<p>9.在 <code>/etc/fstab</code> 文件中添加以下行，以使系统在启动时自动挂载逻辑卷：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">/dev/ls-vg/ls-lv  /ls  ext4  defaults  0  0</span><br></pre></td></tr></table></figure>
+
+<p>10.确保挂载成功后，使用命令 <code>df -h</code> 检查挂载情况。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">// ！！！这里因为创建磁盘时只床建了一个导致内存不够，加盘后反而不能开机，在网上搜索后发现是新添加的磁盘空间没有分配，系统识别不出来，导致不能开机。</span><br><span class="line">//所以空间没分配完尽量不要重启</span><br><span class="line">解决办法：直接添加新硬盘，添加后扫描分区：</span><br><span class="line">ls  /sys/class/scsi_host/</span><br><span class="line">for i in $(ls /sys/class/scsi_host/); do echo &quot;- - -&quot; &gt; /sys/class/scsi_host/$i/scan; done</span><br><span class="line">sudo pvcreate /dev/sdc</span><br><span class="line">sudo vgextend ls-vg /dev/sdc</span><br></pre></td></tr></table></figure>
+
+<p>1.要将逻辑卷扩展到10GB，使用以下命令：</p>
+<ul>
+<li>首先，确认逻辑卷和文件系统的当前大小，使用命令 <code>sudo df -h /ls</code>。</li>
+<li>然后，使用命令 <code>sudo lvextend -L +5G /dev/ls-vg/ls-lv</code> 将逻辑卷扩展为10GB。</li>
+<li>最后，使用命令 <code>sudo resize2fs /dev/ls-vg/ls-lv</code> 来扩展文件系统以使用新的逻辑卷大小。</li>
+</ul>
+<ol>
+<li>使用命令 <code>sudo df -h /ls</code> 再次检查挂载点的大小，确认扩容成功。</li>
+</ol>
+<h4 id="ok-你已经完成搭载及扩容啦"><a href="#ok-你已经完成搭载及扩容啦" class="headerlink" title="ok 你已经完成搭载及扩容啦!!"></a>ok 你已经完成搭载及扩容啦!!</h4>]]></content>
   </entry>
 </search>
