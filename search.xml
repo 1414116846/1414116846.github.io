@@ -42,6 +42,7 @@
 <p><code>shutdown transactional;</code>  事务完成后关闭数据库</p>
 <p><code>select name from v$tempfile;</code> 获取临时表空间文件的名称。</p>
 <p><code>select name from v$datafile;</code> 获取数据文件的名称。数据文件是用来存储表、索引和其他数据库对象的物理文件。</p>
+<p><code>show parameter ***</code>查看参数</p>
 ]]></content>
   </entry>
   <entry>
@@ -588,10 +589,18 @@
 <h4 id="ok-你已经完成搭载及扩容啦"><a href="#ok-你已经完成搭载及扩容啦" class="headerlink" title="ok 你已经完成搭载及扩容啦!!"></a>ok 你已经完成搭载及扩容啦!!</h4>]]></content>
   </entry>
   <entry>
-    <title>zhang</title>
-    <url>/2023/10/26/zhang/</url>
+    <title></title>
+    <url>/2023/10/27/%E4%BB%BB%E5%8A%A1/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>测试</title>
+    <url>/2023/10/26/%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/1414116846/bloglmages@main/C:%5Chexo%5Csource%5CpicOIP.jpg"><img src="https://cdn.jsdelivr.net/gh/1414116846/bloglmages@main/C:%5Chexo%5Csource%5CpicR.jpg"/></p>
 <p><img src="https://cdn.jsdelivr.net/gh/1414116846/bloglmages@main/C:%5Chexo%5Csource%5Cpic61B873E5E4E1560BF176671412B9C1C5.jpg" alt="61B873E5E4E1560BF176671412B9C1C5"></p>
 ]]></content>
+      <tags>
+        <tag>hello</tag>
+      </tags>
   </entry>
 </search>
