@@ -543,6 +543,9 @@
 <h2 id="Centos-7-X根分区磁盘扩容（非LVM）"><a href="#Centos-7-X根分区磁盘扩容（非LVM）" class="headerlink" title="Centos 7.X根分区磁盘扩容（非LVM）"></a>Centos 7.X根分区磁盘扩容（非LVM）</h2><p><a href="https://cloud.tencent.com/developer/article/1839925">Centos 7.X根分区磁盘扩容（非LVM）-腾讯云开发者社区-腾讯云 (tencent.com)</a></p>
 <h2 id="Linux-虚拟机中不重启的情况下加新硬盘及扩展根分区容量"><a href="#Linux-虚拟机中不重启的情况下加新硬盘及扩展根分区容量" class="headerlink" title="Linux 虚拟机中不重启的情况下加新硬盘及扩展根分区容量"></a>Linux 虚拟机中不重启的情况下加新硬盘及扩展根分区容量</h2><p><a href="https://www.cnblogs.com/xiongzaiqiren/p/12627841.html">Linux 虚拟机中不重启的情况下加新硬盘及扩展根分区容量 </a></p>
 ]]></content>
+      <tags>
+        <tag>优秀博客</tag>
+      </tags>
   </entry>
   <entry>
     <title>yum源本地搭建及创建盘挂载加扩容</title>
