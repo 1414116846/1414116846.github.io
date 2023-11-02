@@ -613,7 +613,7 @@
   <entry>
     <title>学习笔记</title>
     <url>/1970/01/01/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-1/</url>
-    <content><![CDATA[<h3 id="oracle体系架构总览图，必须掌握该图，了如指掌"><a href="#oracle体系架构总览图，必须掌握该图，了如指掌" class="headerlink" title="oracle体系架构总览图，必须掌握该图，了如指掌"></a><a href="https://so.csdn.net/so/search?q=oracle&spm=1001.2101.3001.7020">oracle</a>体系架构总览图，必须掌握该图，了如指掌</h3><p><img src="https://img-blog.csdnimg.cn/c2b9f6ccd6e549b1b6eac1d4e08dd05a.png"></p>
+    <content><![CDATA[<h3 id="oracle体系架构总览图，必须掌握该图，了如指掌"><a href="#oracle体系架构总览图，必须掌握该图，了如指掌" class="headerlink" title="oracle体系架构总览图，必须掌握该图，了如指掌"></a><a href="https://so.csdn.net/so/search?q=oracle&spm=1001.2101.3001.7020">oracle</a>体系架构总览图，必须掌握该图，了如指掌</h3><p><img src="https://cdn.jsdelivr.net/gh/1414116846/bloglmages@main/C:%5Chexo%5Csource%5Cpicc2b9f6ccd6e549b1b6eac1d4e08dd05a.png"></p>
 <h4 id=""><a href="#" class="headerlink" title=""></a></h4><h4 id="1-Oracle-server"><a href="#1-Oracle-server" class="headerlink" title="1.Oracle server"></a>1.Oracle server</h4><p>一整套软件，是一个<a href="https://so.csdn.net/so/search?q=%E6%95%B0%E6%8D%AE%E5%BA%93&spm=1001.2101.3001.7020">数据库</a>管理系统，它为信息管理提供了一种开放、全面、集成的方法;</p>
 <p>包含Instance和<a href="https://so.csdn.net/so/search?q=Database&spm=1001.2101.3001.7020">Database</a>。</p>
 <h4 id="2-Oracle-Instance"><a href="#2-Oracle-Instance" class="headerlink" title="2.Oracle Instance"></a>2.Oracle Instance</h4><ul>
@@ -634,7 +634,7 @@
 </li>
 </ol>
 <h5 id="进程结构："><a href="#进程结构：" class="headerlink" title="进程结构："></a>进程结构：</h5><ol>
-<li><p>用户进程（User Processes）：简单说就是用户客户端为了连接数据库而存在的进程<img src="https://img-blog.csdnimg.cn/7975408281e749e489194eb45d269110.png"></p>
+<li><p>用户进程（User Processes）：简单说就是用户客户端为了连接数据库而存在的进程<img src="https://cdn.jsdelivr.net/gh/1414116846/bloglmages@main/C:%5Chexo%5Csource%5Cpic7975408281e749e489194eb45d269110.png"></p>
 </li>
 <li><p>服务器进程（Server Processes）：服务器进程是 Oracle 数据库中用于处理用户请求的主要执行者。当用户进程发送 SQL 请求时，服务器进程负责解析和执行该请求，访问存储在数据库中的数据，并返回结果给用户进程。服务器进程还负责协调并管理与其他进程之间的通信，如与后台进程的交互和数据传输。<br>IPC&amp;TCP&#x2F;IPIPC是一种在同一主机上的进程之间进行通信的机制TCP&#x2F;IP是一组通信协议，用于在网络上实现进程间通信。</p>
 </li>
